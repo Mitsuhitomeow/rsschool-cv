@@ -25,3 +25,20 @@ I chose the Front-end developer path because I like web development. I want to s
 - Programming languages: Javascript (beginer);
 - Markup and style language: HTML, CSS (beginer);
 - Additional development tools: Git.
+
+## Code example
+``` Javascript
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=, initial-scale=1.0">
+    <title>Code example</title>
+</head>
+<body>
+    <script>
+        document.write('<h1> Hello world!!! </h1>')
+    </script>    
+</body>
+</html>
+```
