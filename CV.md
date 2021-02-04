@@ -13,3 +13,11 @@ Phone   | +375 (29) 202 81 42
 
 ## Objective
 I chose the Front-end developer path because I like web development. I want to see what I'm worth.
+
+### My strengths:
+- Responsibility
+- Creativity
+- Perfectionism
+- I learn quickly
+- I like to learn new things
+
