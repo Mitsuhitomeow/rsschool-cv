@@ -21,3 +21,7 @@ I chose the Front-end developer path because I like web development. I want to s
 - I learn quickly
 - I like to learn new things
 
+## Skills
+- Programming languages: Javascript (beginer);
+- Markup and style language: HTML, CSS (beginer);
+- Additional development tools: Git.
