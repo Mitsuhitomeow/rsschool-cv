@@ -42,3 +42,6 @@ I chose the Front-end developer path because I like web development. I want to s
 </body>
 </html>
 ```
+## Education
+- Gomel state road construction college named Leninskogo komsomola of Belarus 2013-2017 (middle special education);
+- Belarusian state university of transport 2019-2022 (high special education).
