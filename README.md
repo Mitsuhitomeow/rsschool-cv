@@ -1,2 +1,2 @@
 # rsschool-cv
-https://Mitsuhitomeow.github.io/rsschool-cv/CV
+https://Mitsuhitomeow.github.io/rsschool-cv/cv
