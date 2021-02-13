@@ -21,6 +21,12 @@ h2 {
     justify-content: space-between;
 }
 
+.block-row {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+}
+
 .container {
     max-width: 1000px;
     margin: 0px auto;
@@ -40,6 +46,17 @@ h2 {
     margin: 0px 0px 20px;
     color: white;
 }
+
+.info-contant {
+    display: flex;
+    flex-direction: row;
+}
+
+.info-contant {
+    display: flex;
+    flex-direction: row;
+}
+
 
 .info-right {
     margin-right: 40px;
@@ -74,4 +91,8 @@ h2 {
     background-color: white;
     height: 10px;
     color: black;
+}
+
+.string-right {
+    margin: 40px;
 }
