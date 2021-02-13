@@ -1,5 +1,5 @@
 # Alexey Melnikov / Алексей Мельников 
-Data for birth: **23rd October 1997**.
+Date of birth: **23rd October 1997**.
 
 ## Contacts for communication
 
@@ -22,8 +22,8 @@ I chose the Front-end developer path because I like web development. I want to s
 - I like to learn new things.
 
 ## Skills
-- Programming languages: Javascript (beginer);
-- Markup and style language: HTML, CSS (beginer);
+- Programming languages: Javascript (beginner);
+- Markup and style language: HTML, CSS (beginner);
 - Additional development tools: Git.
 
 ## Code example
@@ -42,9 +42,12 @@ I chose the Front-end developer path because I like web development. I want to s
 </body>
 </html>
 ```
+## Experience
+I don't have it yet.
+
 ## Education
-- Gomel state road construction college named Leninskogo komsomola of Belarus 2013-2017 (middle special education);
+- Gomel State Road-Building College named after Lenin komsomol of Belarus 2013-2017 (secondary special education);
 - Belarusian state university of transport 2019-2022 (high special education).
 
 ## English
-My level of English: A1-beginner, elementary (but I do not stand still and find time to study it).
+My level of English: A1+ beginner, elementary (I constantly develop my english skills to be better in it.).
