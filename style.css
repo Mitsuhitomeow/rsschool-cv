@@ -102,6 +102,10 @@ h2 {
     color: black;
 }
 
+.my-photo {
+    border-radius: 100%;
+}
+
 .string-right {
     margin: 40px;
 }
