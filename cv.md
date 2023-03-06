@@ -20,3 +20,32 @@ ___
 + JavaScript (Fundamentals).
 + Version control: Git.
 + Editors: VSCode, Sublime.
+## Code examples
+___
+```
+//Count the divisors of a number
+
+const getDivisorsCnt = (n) => {
+  let result = [];
+  
+    for (let i = 1; i <= n; i++) {
+      if (!(n % i)) {
+        result.push(i)
+      }      
+    } return result.length
+  }
+```
+## Experience
+___
++ Plasterer on a construction site .
++ Bus driver - flight Mozyr Moscow Mozyr.
+
+## Education
+___
++ **Road Construction College imeni Leninskogo Komsomola.**
+  * Industrial and civil engineering. *(secondary special education)*
++ **Belarusian State University of Transport.**
+  * Industrial and civil engineering. *(higher education)*
+## English language
+___
+A1 (This is knowledge left over from school)
