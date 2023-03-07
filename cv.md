@@ -19,8 +19,6 @@ Of all the jobs I've been to, none compare to front-end development. So much use
 + Editors: VSCode, Sublime.
 ## Code examples
 ```
-//Count the divisors of a number
-
 const getDivisorsCnt = (n) => {
   let result = [];
   
