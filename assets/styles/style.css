@@ -90,8 +90,41 @@ body {
 }
 
 .main__left, .main__right {
-  color: var(--title-color);
+  color: rgb(86, 97, 134);
   padding: 2%;
   width: 50%;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
   text-align: justify;
+}
+
+.skill__level {
+  display: flex;
+}
+
+.js, .html, .css {
+  background-color: rgb(86, 97, 134);
+  padding: 5px 0 5px;
+
+  height: 100%;
+  margin: auto 0;
+  padding: 5px 0 5px 0;
+}
+
+.js {
+  width: 40%;
+}
+
+.html {
+  width: 70%;
+}
+
+.css{
+  width: 65%;
+}
+
+.name {
+  width: 20%;
 }
