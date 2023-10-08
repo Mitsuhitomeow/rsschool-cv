@@ -1,1 +1,1 @@
-https://Mitsuhitomeow.github.io/rsschool-cv/cv
+[deploy CV (markdown)](https://Mitsuhitomeow.github.io/rsschool-cv/cv)
