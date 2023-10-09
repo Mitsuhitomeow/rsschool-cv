@@ -23,6 +23,7 @@ body {
 
 .wallpaper {
   margin: 5% 0;
+  border: 1px solid var(--title-color);
   border-radius: 5px;
   box-shadow: 0px 10px 20px rgba(54, 59, 61, 0.5);
   background-color: var(--wallpaper-color);
@@ -30,9 +31,10 @@ body {
 
 /* HEADER */
 
-.header__profile {
+.header__profile, .footer{
   color: rgb(255, 255, 255);
   display: flex;
+  justify-content: space-evenly;
   border-radius: 5px 5px 0 0;
   background: repeating-linear-gradient(-50deg, #466b81 0, #466b81 10px, transparent 15px, transparent 5px);
 
@@ -105,7 +107,7 @@ body {
   text-align: justify;
 }
 
-.left {
+.left, .right {
   margin-bottom: 2%;
 }
 
@@ -139,7 +141,7 @@ body {
 }
 
 .hobbi__show {
-  font-size: 50px;
+  font-size: 40px;
 }
 
 .language__level {
@@ -169,4 +171,35 @@ body {
 
 .language {
   width: 25%;
+}
+
+/* FOOTER */
+
+.footer__contacts-container {
+  background: rgb(148, 168, 192);
+  margin: 20px;
+  padding: 1%;
+  text-align: center;
+  width: 50%;
+  font-size: 12px;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+}
+
+.footer__contacts-social {
+  font-size: 25px;
+
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.social__link, .social__link:visited {
+  color: var(--title-color);
+}
+
+.social__link:hover {
+  position: relative;
+  top: -2px;
 }
