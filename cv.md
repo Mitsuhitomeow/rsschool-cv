@@ -32,3 +32,12 @@ const getDivisorsCnt = (n) => {
 
 ## Experience
 I have no work experience in the IT industry, but I have completed educational projects where I applied my programming skills, utilizing various technologies and modern approaches to tackle tasks of varying complexity. Examples of these projects and links to the source code can be provided upon request.
+
+## Education
++ **Road Construction College imeni Leninskogo Komsomola.**
+  * ***(Secondary special education)*** -Industrial and civil engineering.
++ **Belarusian State University of Transport.**
+  * ***(Higher education)*** - Industrial and civil engineering.
+
+## English language
+English language level - all experience is gathered from the school base in English language, I possess it at the level of a listener/reader, and can also express some thoughts and communicate on simple everyday topics. ([A2 level]()).
