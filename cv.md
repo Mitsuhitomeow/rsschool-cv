@@ -16,3 +16,19 @@ I am a determined and motivated frontend developer, striving for professional gr
 - [CSS](): experience with CSS and preprocessors such as Sass, knowledge of responsive design and the use of modern CSS frameworks.
 - [Git](): experience with version control system Git, knowledge of basic commands and processes for working with repositories.
 - [IDE](): primary development environment - Visual Studio Code, experience with other tools and extensions to enhance development efficiency.
+
+## Code examples
+```
+const getDivisorsCnt = (n) => {
+  let result = [];
+
+    for (let i = 1; i <= n; i++) {
+      if (!(n % i)) {
+        result.push(i)
+      }
+    } return result.length
+  }
+```
+
+## Experience
+I have no work experience in the IT industry, but I have completed educational projects where I applied my programming skills, utilizing various technologies and modern approaches to tackle tasks of varying complexity. Examples of these projects and links to the source code can be provided upon request.
