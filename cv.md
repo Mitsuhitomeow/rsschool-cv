@@ -9,3 +9,10 @@
 
 ## Summary
 I am a determined and motivated frontend developer, striving for professional growth and development. My main goal is to create high-quality and innovative web applications that are useful and user-friendly. I have excellent analytical and problem-solving skills, which allow me to find effective solutions for complex tasks.
+
+## Skill
+- [JavaScript](): proficient in the programming language, knowledge of basic concepts and syntax, experience with various libraries and frameworks such as React.
+- [HTML](): deep understanding of markup language, experience with HTML5 and the use of semantic elements.
+- [CSS](): experience with CSS and preprocessors such as Sass, knowledge of responsive design and the use of modern CSS frameworks.
+- [Git](): experience with version control system Git, knowledge of basic commands and processes for working with repositories.
+- [IDE](): primary development environment - Visual Studio Code, experience with other tools and extensions to enhance development efficiency.
