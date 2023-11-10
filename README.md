@@ -1,1 +1,1 @@
-# rsschool-cv
+https://mitsuhitomeow.github.io/rsschool-cv/cv
